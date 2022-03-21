@@ -37,9 +37,11 @@ namespace MiniAtmWithSwitchCase
                     int deposit;
                     Int32.TryParse(Console.ReadLine(), out deposit);
                     Console.WriteLine("Balance : " + (balance + deposit));
-                     break;
+                    break;
                 case 4:
                     Console.WriteLine("Thank you for your visiting us."); break;
+                    default:
+                    Console.WriteLine("Please enter between 1 and 4.");break;
             }
             Console.ReadLine();
 

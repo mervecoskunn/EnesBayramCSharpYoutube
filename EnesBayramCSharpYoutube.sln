@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMI", "BMI\BMI.csproj", "{D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniAtmWithSwitchCase", "MiniAtmWithSwitchCase\MiniAtmWithSwitchCase.csproj", "{7D32EE0C-7B0C-40C3-A6C5-85C2F6956C48}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FromOneToTen", "FromOneToTen\FromOneToTen.csproj", "{F7165823-5BFE-4DB1-B565-A76596D7DF11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{7D32EE0C-7B0C-40C3-A6C5-85C2F6956C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D32EE0C-7B0C-40C3-A6C5-85C2F6956C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D32EE0C-7B0C-40C3-A6C5-85C2F6956C48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7165823-5BFE-4DB1-B565-A76596D7DF11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7165823-5BFE-4DB1-B565-A76596D7DF11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7165823-5BFE-4DB1-B565-A76596D7DF11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7165823-5BFE-4DB1-B565-A76596D7DF11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
