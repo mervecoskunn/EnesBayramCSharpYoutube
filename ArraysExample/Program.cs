@@ -17,6 +17,9 @@ namespace ArraysExample
             //numbers[3] = 4;
             //for (int i = 0; i < numbers.Length; i++)
             //    Console.WriteLine(numbers[i]);
+
+
+
             string[] names = new string[5];
             names[0] = "Merve";
             names[1] = "Derin";

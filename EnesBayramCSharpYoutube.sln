@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Addition", "Addition\Additi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysExample", "ArraysExample\ArraysExample.csproj", "{366DB24C-1CEA-4D27-B666-D8D7498DE0F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputForArrays", "InputForArrays\InputForArrays.csproj", "{66A5B778-BB28-479E-B3BD-C703A9B2AE8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{366DB24C-1CEA-4D27-B666-D8D7498DE0F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{366DB24C-1CEA-4D27-B666-D8D7498DE0F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{366DB24C-1CEA-4D27-B666-D8D7498DE0F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66A5B778-BB28-479E-B3BD-C703A9B2AE8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66A5B778-BB28-479E-B3BD-C703A9B2AE8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66A5B778-BB28-479E-B3BD-C703A9B2AE8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66A5B778-BB28-479E-B3BD-C703A9B2AE8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
