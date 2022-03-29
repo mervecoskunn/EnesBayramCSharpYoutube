@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForEach", "ForEach\ForEach.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindANumberInArray", "FindANumberInArray\FindANumberInArray.csproj", "{CBD9D032-68BC-4673-B9E2-FC6CC763A414}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysInputFromUser", "ArraysInputFromUser\ArraysInputFromUser.csproj", "{B1EB110E-7409-4418-9775-DAFD955D5015}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{CBD9D032-68BC-4673-B9E2-FC6CC763A414}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBD9D032-68BC-4673-B9E2-FC6CC763A414}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBD9D032-68BC-4673-B9E2-FC6CC763A414}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1EB110E-7409-4418-9775-DAFD955D5015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1EB110E-7409-4418-9775-DAFD955D5015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1EB110E-7409-4418-9775-DAFD955D5015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1EB110E-7409-4418-9775-DAFD955D5015}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -20,18 +20,27 @@ namespace ArraysExample
 
 
 
-            string[] names = new string[5];
-            names[0] = "Merve";
-            names[1] = "Derin";
-            names[2]= "Deniz";
-            names[3] = "Matu";
-            names[4] = "Findik";
-            for (int i = 0; i < names.Length; i++)
+            //string[] names = new string[5];
+            //names[0] = "Merve";
+            //names[1] = "Derin";
+            //names[2]= "Deniz";
+            //names[3] = "Matu";
+            //names[4] = "Findik";
+            //for (int i = 0; i < names.Length; i++)
+            //{
+            //    Console.WriteLine(names[i]);
+
+            //}
+            //Console.ReadLine();
+
+            string[] names2 = { "Merve", "Derin", "Deniz" };
+            for (int i = 0; i < names2.Length; i++)
             {
-                Console.WriteLine(names[i]);
+                Console.WriteLine(names2[i]);
 
             }
             Console.ReadLine();
+
 
 
 
