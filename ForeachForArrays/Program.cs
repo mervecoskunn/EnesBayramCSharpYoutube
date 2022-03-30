@@ -20,6 +20,8 @@ namespace ForeachForArrays
                 Console.WriteLine(name);
             }
             Console.ReadLine();
+            // double[] numbers ={1.10,2.10};
+            // char[] characters ={'a','b','d'};
 
         }
     }
