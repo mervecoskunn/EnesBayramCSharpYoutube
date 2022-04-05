@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsWithParameters", "Me
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsReturn", "MethodsReturn\MethodsReturn.csproj", "{B3050D35-9260-44AF-912A-728A79215E1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsWithParemeterAndReturn", "MethodsWithParemeterAndReturn\MethodsWithParemeterAndReturn.csproj", "{24186717-68B5-42FF-A21F-3EF284256D3F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{B3050D35-9260-44AF-912A-728A79215E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3050D35-9260-44AF-912A-728A79215E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3050D35-9260-44AF-912A-728A79215E1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24186717-68B5-42FF-A21F-3EF284256D3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24186717-68B5-42FF-A21F-3EF284256D3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24186717-68B5-42FF-A21F-3EF284256D3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24186717-68B5-42FF-A21F-3EF284256D3F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
