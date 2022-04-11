@@ -11,6 +11,11 @@ namespace Class
         public int carDoorCounter;
         public string carModel ;
         public string carColor;
+        public Car() //constructor method
+        {
+            Console.WriteLine("Constructor method start...");
+
+        }
 
 
 

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3B7B7EA1-D4CA-4B6D-A581-46EB90024458}</ProjectGuid>
+    <ProjectGuid>{A572EDD0-E7A4-44E3-B579-F3E91346B602}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>EnesBayramCSharpYoutube</RootNamespace>
-    <AssemblyName>EnesBayramCSharpYoutube</AssemblyName>
+    <RootNamespace>ConstructorMethod</RootNamespace>
+    <AssemblyName>ConstructorMethod</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -47,9 +47,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\.editorconfig">
-      <Link>.editorconfig</Link>
-    </None>
     <None Include="App.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
